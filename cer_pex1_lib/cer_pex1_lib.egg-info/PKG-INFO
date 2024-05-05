@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: cer_pex1_lib
+Version: 1.0.1
+Summary: Library for the first programming exercise of the CER lecture.
+Author: Christoph Zelch
+Author-email: zelch@sim.informatik.tu-darmstadt.de
+Requires-Python: >=3.6.0
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: jupyter
